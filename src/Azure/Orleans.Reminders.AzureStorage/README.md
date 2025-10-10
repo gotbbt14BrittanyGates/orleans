@@ -87,3 +87,4 @@ For more comprehensive documentation, please refer to:
 - Follow the [@msftorleans](https://twitter.com/msftorleans) Twitter account for Orleans announcements
 - Contributions are welcome! Please review our [contribution guidelines](https://github.com/dotnet/orleans/blob/main/CONTRIBUTING.md)
 - This project is licensed under the [MIT license](https://github.com/dotnet/orleans/blob/main/LICENSE)
+<!-- Auto-update: 2025-10-10T15:33:47.012275 -->
